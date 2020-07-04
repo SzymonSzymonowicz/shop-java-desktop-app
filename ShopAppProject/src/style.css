@@ -1,0 +1,174 @@
+@font-face
+{
+   font-family: "Pacifico-Regular";
+   src: url("../../../resources/fonts/Pacifico/Pacifico-Regular.ttf");
+}
+@font-face
+{
+    src: url("../../../resources/fonts/Permanent_Marker/PermanentMarker-Regular.ttf");
+}
+@font-face
+{
+    src: url("../../../resources/fonts/Rancho/Rancho-Regular.ttf");
+}
+#HmJ
+{
+    -fx-cursor: hand;
+    -fx-background-position: center;
+}
+#HmA
+{
+    -fx-cursor: hand;
+    -fx-background-position: center;
+}
+#HmK
+{
+    -fx-cursor: hand;
+    -fx-background-position: center;
+}
+.scroll-pane
+{
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-padding: 0;
+}
+.scroll-bar:vertical .track
+{
+    -fx-background-color: black;
+}
+.scroll-pane > .corner
+{
+    -fx-background-color: black;
+}
+#Name
+{
+    -fx-font-size: 200px;
+    -fx-font-family: "Pacifico";
+    -fx-text-fill: white;
+    -fx-background-position: center;
+}
+#Logo{
+    -fx-background-color: none;
+    -fx-background-image: url("../../../resources/Images/Logo.png");
+    -fx-background-size: 300px 300px;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+#LogoBox
+{
+    -fx-background-color: #7f318f;
+}
+#LogoBox:hover
+{
+    -fx-background-color: #4C1D55;
+    -fx-cursor: hand;
+}
+#Close:hover
+{
+    -fx-background-color: red;
+}
+#Min:hover
+{
+    -fx-background-color: blue;
+}
+.nbBut
+{
+    -fx-text-fill: white;
+    -fx-background-color: black;
+    -fx-font: 28px "Permanent Marker";//"Comic Sans MS";
+    -fx-color: white;
+    -fx-border: 0px;
+    -fx-background-radius: 0px;
+}
+.nbBut:hover
+{
+    -fx-cursor: hand;
+    -fx-text-fill: black;
+    -fx-background-color: white;
+}
+#cart
+{
+    -fx-background-size: 40px;
+    -fx-image-borders: 0px;
+    -fx-background-radius: 0px;
+    -fx-background-image: url("../../../resources/Images/shopping-cart-white.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: black;
+}
+#cart:hover
+{
+    -fx-cursor: hand;
+    -fx-background-image: url("../../../resources/Images/shopping-cart.png");
+    -fx-background-color: white;
+}
+.prLabel
+{
+    -fx-text-fill: #414504;
+    -fx-font-size: 24px;
+    -fx-font-family: "Rancho";
+}
+#addCart
+{
+    -fx-text-fill: black;
+    -fx-font-size: 20px;
+    -fx-font-family: "Pacifico";
+    -fx-background-color: #ffb300;//#c853e6;//#c40c0c;
+    -fx-background-radius: 4px;
+}
+#addCart:hover
+{
+    -fx-cursor: hand;
+    -fx-text-fill: white;
+    -fx-background-color: #a87703;
+    -fx-background-radius: 30px;
+}
+.hbCart
+{
+    -fx-background-color: lightgrey;
+    -fx-border-color: orange;
+    -fx-border-style: solid;
+}
+#del
+{
+    -fx-background-color: transparent;
+    -fx-background-image: url(../../../resources/Images/Utility/delXmark.png);
+    -fx-background-size: 82px 80px;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+#del:hover
+{
+    -fx-cursor: hand;
+    -fx-background-image: url(../../../resources/Images/Utility/delXmarkHover.png);
+}
+.cartLabel
+{
+    -fx-font-family: "Pacifico";
+    -fx-font-size: 24px;
+}
+#emp
+{
+    -fx-font-size: 60px;
+    -fx-font-family: "Pacifico";
+}
+#thx
+{
+    -fx-font-size: 36px;
+    -fx-font-family: "Pacifico";
+}
+.homeLabel, #detail .label
+{
+    -fx-font-family: "Pacifico";
+    -fx-font-size: 32px;
+    -fx-max-width: Infinity;
+    -fx-wrap-text: true;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+
+}
+
+/*DO TESTOWANIA
+-fx-border-color: red;
+-fx-border-width: 1px;
+*/

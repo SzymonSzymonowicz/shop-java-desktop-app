@@ -1,0 +1,10 @@
+101;AllStar LeBron James;20;250.00;resources/Images/Jersey/AllStarLeBron.jpg
+102;Ben Simmons;30;200.00;resources/Images/Jersey/BenSimmons.jpg
+103;Stephen Curry City;30;240.00;resources/Images/Jersey/CurryCity.jpg
+104;Luka Doncic;50;240.00;resources/Images/Jersey/Doncic.jpg
+105;James Harden;20;230.00;resources/Images/Jersey/Harden.jpg
+106;Stephen Curry Home;25;240.00;resources/Images/Jersey/icon-jersey-player-curry-steph.jpg
+107;LeBron James Lakers;40;240.00;resources/Images/Jersey/LeBron.jpg
+108;Giannis Antetokounmpo;32;220.00;resources/Images/Jersey/mil-m-nk-swgmn-jsy-road.jpg
+109;Adam Waczynski;10;180.00;resources/Images/Jersey/Waczynski.jpg
+110;Lou Williams;15;180.00;resources/Images/Jersey/Williams.jpg

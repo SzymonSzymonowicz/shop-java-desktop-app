@@ -1,0 +1,12 @@
+301;Adidas D.O.N. Issue 1;10;399.99;resources/Images/Kicks/adidas-d-o-n-issue-1-blue-red-cloud-white.jpg
+302;Adidas TMac Millenium;20;339.99;resources/Images/Kicks/adidas-tmac-millennium.jpg
+303;Air Jordan I;15;400.00;resources/Images/Kicks/air-jordan-1-mid.jpg
+304;Air Jordan I se;12;339.99;resources/Images/Kicks/air-jordan-1-mid-se.jpg
+305;Air Jordan I retro high og;8;399.99;resources/Images/Kicks/air-jordan-1-retro-high-og-nike-air.jpg
+306;Air Jordan XXXIII University Red;5;849.99;resources/Images/Kicks/air-jordan-xxxiii-university-red.jpg
+307;Nike Kyrie Flytrap II;14;419.99;resources/Images/Kicks/buty-nike-kyrie-flytrap-ii-duke.jpg
+308;Converse All Star Pro BB;13;419.99;resources/Images/Kicks/converse-all-star-pro-bb.jpg
+309;Jordan Max Aura gs;6;379.99;resources/Images/Kicks/jordan-max-aura-gs.jpg
+310;Kyrie Low 2;12;391.99;resources/Images/Kicks/kyrie-low-2.jpg
+311;LeBron XVII;7;799.99;resources/Images/Kicks/lebron-xvii.jpg
+312;Nike Air Force Max II;3;679.99;resources/Images/Kicks/nike-air-force-max-ii.jpg
